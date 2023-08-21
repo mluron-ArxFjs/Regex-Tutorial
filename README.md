@@ -5,8 +5,6 @@
 - [My Task](#my-task)
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Finished Product](#finished-product)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## My Task
@@ -37,16 +35,7 @@ WHEN I reach the end of the tutorial
 THEN I find a section about the author and a link to the author’s GitHub profile
 ```
 
-## Finished Product
-
+## Usage
 [click here](https://gist.github.com/mluron-ArxFjs/f05c7bf0ad6b31659291a0a5a8998877) to see the GitGist finished documentation
 
-## Installation
-
-```
-N/A
-```
-
-## Usage
-
-Click the URL above and read away! 
+Click the URL above, read away and leave a comment! 

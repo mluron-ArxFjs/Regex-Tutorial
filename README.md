@@ -1,5 +1,5 @@
 # Regex-Tutorial
-<script src="https://gist.github.com/mluron-ArxFjs/f05c7bf0ad6b31659291a0a5a8998877.js"></script>
+
 ## Table of Content
 
 - [My Task](#my-task)
